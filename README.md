@@ -8,12 +8,14 @@
 - 预训练模型加载 ➡ 领域适应微调
 - 完整训练评估流水线
 - MASE/sMAPE指标计算
+- mindspore框架微调：https://github.com/mindspore-lab/mindnlp/pull/2013
 
 ### English
 This repository provides a complete fine-tuning pipeline for **Autoformer model** on time series forecasting tasks, built on Hugging Face ecosystem. Specifically designed for `tourism_monthly` dataset, supporting:
 - Pretrained model loading ➡ Domain-specific fine-tuning
 - End-to-end training & evaluation pipeline
 - MASE/sMAPE metrics calculation
+- Mindspore finetuned version: https://github.com/mindspore-lab/mindnlp/pull/2013
 
 ---
 
